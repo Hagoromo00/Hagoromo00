@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Jeremia</h1>
 <h3 align="left">a student at Institut Teknologi Sepuluh Nopember.</h3>
+<img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fardas-it.com%2Fuploads%2Fimages%2Fblogs%2Fgiph.gif&f=1&nofb=1&ipt=c05feeb1adcf09c5f5cc2c38eca3aeeb500b4752e48ac9bf84e966af6fa33b7a&ipo=images">
 
 - 🔭 I’m currently working on **Computer Architecture and Network Laboratory, Sepuluh Nopember Institute of Technology**
 
